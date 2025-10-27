@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Colores Pasteles -->
+    <color name="pastel_blue">#AEC6CF</color>
+    <color name="pastel_purple">#CDB4DB</color>
+    <color name="pastel_pink">#FFC8DD</color>
+    <color name="pastel_beige">#F4E4C1</color>
+    <color name="pastel_lavender">#E0BBE4</color>
+    <color name="pastel_mint">#B4E7CE</color>
+    <color name="pastel_peach">#FFD5C2</color>
+    <color name="pastel_lilac">#D4C5E2</color>
+    <color name="pastel_yellow">#FFF4A3</color>
+    <color name="pastel_coral">#FFB5B5</color>
+    <color name="pastel_turquoise">#B0E0E6</color>
+    <color name="pastel_cream">#FFF5E1</color>
+
+    <!-- Colores Pasteles Suaves -->
+    <color name="pastel_blue_light">#E3F2FD</color>
+    <color name="pastel_purple_light">#F3E5F5</color>
+    <color name="pastel_pink_light">#FCE4EC</color>
+    <color name="pastel_beige_light">#FFF8E1</color>
+    <color name="pastel_lavender_light">#F5F0FA</color>
+    <color name="pastel_mint_light">#E0F2F1</color>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OSM Mini</string>
+    <string name="hint_name">Nombre</string>
+    <string name="hint_description">Descripción</string>
+    <string name="hint_latitude">Latitud</string>
+    <string name="hint_longitude">Longitud</string>
+    <string name="btn_save">Guardar</string>
+</resources>
